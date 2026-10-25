@@ -1,0 +1,8 @@
+﻿视频ID,图片数,已生成类别,原审核理由,secondary_category,img_directory
+C0011,6,before、after,末段仅露出小球的一部分，尚未完整离开挡板，无法确认整体形状和大小。,Human-Uncertain,Human-Uncertain/img/C0011
+C0295,6,before、after,遮挡后仅从顶部小窗看到粉红色局部，结束前未完整出隧道，无法确认整体形状和数量。,Human-Uncertain,Human-Uncertain/img/C0295
+C0296,6,before、after,遮挡后仅从顶部小窗看到粉红色局部，结束前未完整出隧道，无法确认整体形状和数量。,Human-Uncertain,Human-Uncertain/img/C0296
+C0299,6,before、after,遮挡后仅在顶部小窗看到局部，结束前未完整出隧道，无法确认整体属性。,Human-Uncertain,Human-Uncertain/img/C0299
+C0308,6,before、after,末段仅从顶部小窗看到粉色局部，未完整出隧道，无法确认整体属性。,Human-Uncertain,Human-Uncertain/img/C0308
+C0509,6,before、after,末段挡板下降后仅露出两个方块上部，颜色可对应，但被遮部分未完整露出，无法充分确认。,Human-Uncertain,Human-Uncertain/img/C0509
+C0579,6,before、after,中央方块重现，末帧两侧球体和棱锥仅部分露出，尚不能充分比较全部目标。,Human-Uncertain,Human-Uncertain/img/C0579
